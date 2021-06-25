@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="http://twitter.com/chum0n">
     <img height="20" src="https://img.shields.io/twitter/follow/chum0n?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum0n&count_private=true&show_icons=true&hide=stars)](https://github.com/chum0n/github-readme-stats)　　 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum0n&layout=compact)](https://github.com/chum0n/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chum0n&count_private=true&show_icons=true&hide=stars)](https://github.com/chum0n/github-readme-stats)　　 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chum0n&layout=compact)](https://github.com/chum0n/github-readme-stats) -->
