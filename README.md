@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <a href="https://github.com/chum0n/chum0n/">
-    <img src="https://komarev.com/ghpvc/?username=chum0n" alt="chum0n" />
-  </a>
   <a href="http://twitter.com/chum0n">
     <img height="20" src="https://img.shields.io/twitter/follow/chum0n?label=Twitter&logo=twitter&style=flat" />
   </a>
